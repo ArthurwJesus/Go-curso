@@ -6,4 +6,5 @@
 <h4>🔹 Programas básicos e sintaxes sobre Golang, referentes ao minicurso que será apresentado em aula para a disciplina de Linguagem de Programação  </h4>
 <h4>🔹 Aproveite e divirta-se</h4>
 <img src ="ezgif.com-resize__3_.gif"> 
+<h4><b>⚠️ Documentação feita em Portugues/Documentation all in Portuguese Pt / Br⚠️</b></h4>
 

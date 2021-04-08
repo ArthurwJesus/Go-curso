@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1>📚Golang formattin📚g</h1>
+<h1>📚Golang formatting📚</h1>
 <h1>Printing The verbs:</h1>
 
 <h3>%v	the value in a default format</h3>

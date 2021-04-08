@@ -56,9 +56,10 @@
 <h3>pointer to above:   &{}, &[], &map[]</h3>
 
 <h1> Precisão </h1>
+<h3>//a precisão é quantida de zeros depois do ponto//</h3>
 <h3>% f largura padrão, precisão padrão </h3>
 <h3>% 9f largura 9, precisão padrão </h3>
-<h3>% .1f largura padrão, precisão 2 </h3> //a precisão é quantida de zeros depois do ponto
+<h3>% .1f largura padrão, precisão 2 </h3> 
 <h3>% .2f largura padrão, precisão 2 </h3>
 <h3>% 9.2f largura 9, precisão 2 </h3>
 <h3>% 9.f largura 9, precisão 0 </h3>

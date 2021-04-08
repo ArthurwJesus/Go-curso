@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+
 <h1> 📚Formatação de Golang📚 </h1>
 <h1> Imprimindo os verbos: </h1>
 
@@ -64,4 +64,4 @@
 <h3>% 9.f largura 9, precisão 0 </h3>
 
 <h3> Link para acessar a documentação oficial, tudo retirado de lá, apenas traduzido: https: //golang.org/pkg/fmt/ </h3>
-</html>
+

@@ -1,4 +1,5 @@
-
+<! DOCTYPE html>
+<h1> 📚Formatação de Golang📚 </h1>
 <h1> Imprimindo os verbos: </h1>
 
 <h3>% v o valor em um formato padrão </h3>

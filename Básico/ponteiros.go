@@ -37,12 +37,12 @@ type Imovel struct {
 func main() {
 	casa := new(Imovel) //criando um ponteiro
 	fmt.Printf("Casa é: %p - %+v\r\n",&casa,casa) //vai apontar para onde está o endereço
-	chacara:= Imovel{12,28,"Boi Boi", 289999}
-	fmt.Printf("Chacara é: %p - %+v\r\n",&chacara,chacara)
-	mudaImovel(&chacara)
-	fmt.Printf("Chacara é: %p - %+v\r\n",&chacara,chacara)
+	fazendinha:= Imovel{12,28,"Boi Boi", 289999}
+	fmt.Printf("Fazenda é: %p - %+v\r\n",&fazendinha,fazendinha)
+	mudaImovel(&fazendinha) //vai imprimir a mudança
+	fmt.Printf("Chacara é: %p - %+v\r\n",&fazendinha,fazendinha)
 }
 func mudaImovel(imovel * Imovel){
-	imovel.x = imovel.x +10
-	imovel.y = imovel.y - 5
+	imovel.x = imovel.x +11
+	imovel.y = imovel.y - 4
 }

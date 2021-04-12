@@ -14,7 +14,7 @@ var cache map[string]Imovel
 
 func main() {
 	cache = make(map[string]Imovel, 0)
-	apartamento := Imovel{18, 29, "Buteco", 30000}
+	bar := Imovel{18, 29, "Buteco", 30000}
 
 	casa := Imovel{}
 	casa.Nome = "Casa Verde"
@@ -24,13 +24,13 @@ func main() {
 
 	cache["Casa Verde"] = casa
 
-	fmt.Println("Há uma casa verde no chace?")
+	fmt.Println("Tem uma casa verde?")
 	Imovel, achou := cache["Casa Verde"]
 	if achou {
-		fmt.Printf("Sim, e o que achei foi: %+v\r\n", Imovel)
+		fmt.Printf("Sim,aqui está: %+v\r\n", Imovel)
 	}
 
-	cache[apartamento.Nome] = apartamento             //pode achar algo so pelo nome
+	cache[bar.Nome] = bar             //pode achar algo so pelo nome
 	fmt.Println("Quantos item no cache?", len(cache)) //pra ver quantos itens tem
 
 	for chave, Imovel := range cache {

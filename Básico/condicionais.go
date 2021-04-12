@@ -11,7 +11,7 @@ func main() {
 		fmt.Println("Esse credor não deve")
 	}
 	if situacao {
-		fmt.Println("Ele esta adimplente")
+		fmt.Println("Ele esta devendo")
 	}
 	if cidade == "Ijui" {
 		fmt.Println("O cliente vide na cidade Ijui")
@@ -24,9 +24,9 @@ func main() {
 func haquantotempoestadevendo(meses int) (descricao string, status bool) {
 	if meses > 0 {
 		status = true
-		descricao = "Está devendo"
+		descricao = "Está devendo!"
 		return
 	}
-	descricao = "O carne esta em dia"
+	descricao = "O cara esta em dia"
 	return
 }

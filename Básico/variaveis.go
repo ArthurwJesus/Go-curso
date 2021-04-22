@@ -36,3 +36,9 @@ func main(){
     fmt.Println("quantidade: \n", quantidade) 
     fmt.Println("comprou: \n", comprou) 
 }
+
+//Go é multiplataforma mas tem que compilar atraves do Go build,roda em qualquer plataforma
+
+//GOOS=windows GOARCH=386 go build -o nomedoaquivo.exe -> Transformar em Wind
+
+//GOOS=linux   GOARCH=arm(rapsberry) go build -o meuapprapsberry -v//(isso ve os pacotes) //https://github.com/ArthurwJesus/Go-curso/blob/main/Básico/funcoesmatematica.go(diretorio de onde esta) 

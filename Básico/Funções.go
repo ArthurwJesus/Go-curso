@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "C:/Users/arthu/OneDrive/Área de Trabalho/Go" // aqui é pra puxar uma biblioteca sua
+import "https://github.com/ArthurwJesus/Go-curso/blob/main/Básico/funcoesmatematica.go" // aqui é pra puxar uma biblioteca sua
 
 
 //somando valores

@@ -1,0 +1,7 @@
+//Componentes:Arthur de Jeus,Pedro Giasson e João Paulo
+// Linguagem Go lang
+
+//2 - Definição de valores default para parâmetros
+//Valores default são valores atribuídos aos parâmetros formais caso os parâmetros reais correspondentes sejam omitidos na chamada do subprograma.
+
+//O go não possui suporte para default values em parâmetros, como no PHP 8, por exemplo.

@@ -1,0 +1,8 @@
+//Componentes:Arthur de Jeus,Pedro Giasson e João Paulo
+// Linguagem Go lang
+
+Link para o docs contendo informações sobre cada tópico
+https://docs.google.com/document/d/1kVSPhsYLpXkWQ7IU-4WNbUSMoyW1M-UIOpsv6dKy1cA/edit?usp=sharing
+
+Github:
+https://github.com/ArthurwJesus/Go-curso

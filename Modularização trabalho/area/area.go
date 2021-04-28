@@ -1,3 +1,5 @@
+//Componentes:Arthur de Jeus,Pedro Giasson e João Paulo
+// Linguagem Go lang
 
 package area //cria o pacote area
 

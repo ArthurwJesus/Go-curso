@@ -1,4 +1,4 @@
-<h1>A tarefa desta semana tem por objetivo estabelecer uma relação entre o conteúdo do capítulo 6 e a linguagem de programação (LP) que o grupo está estudando para o trabalho final do semestre.</h1>
+<h2>A tarefa desta semana tem por objetivo estabelecer uma relação entre o conteúdo do capítulo 6 e a linguagem de programação (LP) que o grupo está estudando para o trabalho final do semestre.</h2>
 
 <h3>O grupo deverá entregar um ou mais programas de exemplo comentados apresentando a(s) sintaxes(s) para definição de subprogramas, incluindo, quando houver:</h3>
 

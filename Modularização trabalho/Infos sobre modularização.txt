@@ -6,3 +6,5 @@ https://docs.google.com/document/d/1kVSPhsYLpXkWQ7IU-4WNbUSMoyW1M-UIOpsv6dKy1cA/
 
 Github:
 https://github.com/ArthurwJesus/Go-curso
+
+IMPORTANTE: Na questão 6 a pastar area e o arquivo da propria questão devem estar dentro do diretorio Src , pois só assim irá rodar!

@@ -24,3 +24,4 @@ func main() {
 	fmt.Println(media(7, 7))
 	fmt.Println("Acabou..")
 }
+//Panic encerra todo o programa mas com o recover podemos recuperar e o programa e continuar usando

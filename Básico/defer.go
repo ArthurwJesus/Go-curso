@@ -28,3 +28,5 @@ func main() {
 	fmt.Println(soma(4, 5))
 	texto2()
 }
+
+//Usado geralmente quando se conecta em um banco de dados para evitar o esquecimento de fechar o mesmo

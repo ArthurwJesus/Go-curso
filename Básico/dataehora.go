@@ -13,5 +13,5 @@ func main() {
 	}
 	defer file.Close()                                       //fecha o prgrama
 	data := time.Now()                                       //pega a data e hora atual da maquina
-	file.WriteString(data.Format(("02/Jan/2006 15:04:05 "))) // aqui vai escrever no txt e dessa forma ela fica "bonito" -> 10/Apr/2021 19:56:58
+	file.WriteString(data.Format(("02/Jan/2006 15:04:05 "))) // aqui vai escrever no txt e dessa forma ela fica "bonito" -> 10/Apr/2021 19:56:58 //a parte da data ali dentro do codigo não deve ser mudada pois é um padrão Go de qualidade
 }

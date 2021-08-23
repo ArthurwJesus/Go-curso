@@ -1,1 +1,1 @@
-Aqui tem o basico de GOLANG
+O basico de GOLANG
